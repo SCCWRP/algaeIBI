@@ -1,0 +1,2 @@
+This software and its documentation are in the public domain and are furnished by Southern California Coastal Water Research Project Authority "as is." The authors, Southern California Coastal Water Research Project Authority, its instrumentalities, officers, employees, and agents make no warranties, express or implied, as to the usefulness of the software and documentation for any purpose. They also assume no responsibility (1) for the use of the software and documentation; or (2) to provide technical support to users.
+

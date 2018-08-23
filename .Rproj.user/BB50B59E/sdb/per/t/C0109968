@@ -1,0 +1,16 @@
+{
+    "contents" : "\n# This is the user-interface definition of a Shiny web application.\n# You can find out more about building applications with Shiny here:\n# \n# http://www.rstudio.com/shiny/\n\n\nlibrary(shiny)\nlibrary(ggvis)\nshinyUI(fluidPage(#theme = \"bootstrap.min.css\",\n\n  fluidRow(\n    column(8,\n           includeMarkdown(\"www/intro.Rmd\")\n    ),\n    column(4, \n           \n           \"Enter your email address to indicate that you have read and agree to the terms and conditions of this scoring tool\",\n           textInput(\"email\", \"\"),\n           includeHTML(\"www/algae.js\"),\n           div(id=\"error\"),\n           br(),\n           hr(),\n           fileInput(\"file\", \"Select input file\"),\n           actionButton(\"submit\", \"Submit\"),\n           tags$div(style=\"float:right;\", \n                    conditionalPanel(condition=\"input.submit > 0 && $('html').hasClass('shiny-busy')\",\n                                     h5(\"Processing data. Please wait.\"))\n           ),\n           uiOutput(\"outcome\")\n    )),\n  fluidRow(column(12,\n                  br(),\n                  hr(),\n                  includeMarkdown(\"www/disclaimer.Rmd\")\n  ))\n))\n",
+    "created" : 1403651086426.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4124189424",
+    "id" : "C0109968",
+    "lastKnownWriteTime" : 1415228788,
+    "path" : "~/ShinyApps/algaeIBI/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

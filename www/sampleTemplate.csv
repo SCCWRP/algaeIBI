@@ -1,0 +1,253 @@
+SampleID,StationCode,SampleDate,Replicate,FinalID,BAResult,Result,SampleTypeCode,ActualOrganismCount
+SMC00345_40743_1,SMC00345,7/19/2011,1,Heteroleibleinia kossinskajae,NA,125.7753342,Microalgae,2
+SMC00345_40743_1,SMC00345,7/19/2011,1,Achnanthidium exiguum,6,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Amphora copulata,10,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Amphora pediculus,33,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Bacillaria paradoxa,3,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Cocconeis placentula,3,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Cocconeis placentula var euglypta,112,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Cocconeis placentula var lineata,3,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Cyclotella,1,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Cyclotella meneghiniana,5,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Denticula subtilis,1,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Diadesmis,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Diadesmis gallica,1,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Diploneis sp 1 SCCWRP JPK,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Entomoneis alata,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Entomoneis paludosa,3,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Eolimna minima,1,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Fallacia,1,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Fallacia monoculata,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Fallacia pygmaea,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Gomphonema parvulum,1,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Gomphosphenia,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Gyrosigma acuminatum,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Halamphora,7,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Halamphora coffeaeformis,6,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Halamphora normanii,9,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Hippodonta hungarica,7,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Hippodonta sp 1 SCCWRP JPK,4,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Luticola mutica,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Melosira varians,1,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Navicula,34,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Navicula cari,3,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Navicula cincta,9,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Navicula graciloides,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Navicula gregaria,18,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Navicula longa,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Navicula peregrina,1,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Navicula recens,6,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Navicula schroeteri,5,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Navicula submuralis,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Navicula veneta,15,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Nitzschia,20,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Nitzschia amphibia,14,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Nitzschia capitellata,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Nitzschia communis,7,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Nitzschia compressa var vexans,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Nitzschia desertorum,3,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Nitzschia dubia,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Nitzschia inconspicua,24,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Nitzschia lacuum,23,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Nitzschia liebethruthii,22,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Nitzschia linearis,4,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Nitzschia microcephala,7,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Nitzschia minuta,4,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Nitzschia palea,3,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Nitzschia sociabilis,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Pinnularia divergentissima,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Planothidium,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Planothidium lanceolatum,83,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Pleurosigma elongatum,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Rhoicosphenia sp 1 SCCWRP JPK,16,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Surirella robusta,1,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Tryblionella calida,2,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Tryblionella constricta,13,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Tryblionella hungarica,6,NA,Integrated,600
+SMC00345_40743_1,SMC00345,7/19/2011,1,Tryblionella littoralis,3,NA,Integrated,600
+SMC00345_40743_2,SMC00345,7/19/2011,2,Heteroleibleinia kossinskajae,NA,1125.207493,Microalgae,7
+SMC00686_40721_1,SMC00686,6/27/2011,1,Chantransia sp 1,NA,4276281.856,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Heteroleibleinia kossinskajae,NA,189698.5927,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Hydrodictyon reticulatum,NA,116611135.5,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Leptolyngbya foveolarum,NA,1445128.51,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Oedogonium sp 1,NA,150338034,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Phormidium cf chalybeum,NA,500415.9619,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Tychonema sequanum,NA,2172260.198,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Tychonema sp 2,NA,372582.4298,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Aphanocapsa delicatissima,NA,917.125981,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Chamaesiphon minutus,NA,19652.69959,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Chroococcus minimus,NA,47387.87518,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Pediastrum boryanum,NA,485251.8418,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Pleurocapsa minor,NA,527954.0039,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Scenedesmus communis,NA,73457.42381,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Scenedesmus ellipticus,NA,470791.3369,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Synechococcus ambiguus,NA,69876.26522,Microalgae,337
+SMC00686_40721_1,SMC00686,6/27/2011,1,Achnanthidium minutissimum,2,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Amphora pediculus,42,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Cocconeis pediculus,3,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Cyclotella meneghiniana,45,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Eolimna minima,5,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Eolimna subminuscula,2,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Gomphonema parvulum,21,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Halamphora coffeaeformis,2,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Halamphora veneta,4,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Melosira varians,5,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Navicula phyllepta,6,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Navicula subrotundata,8,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Naviculales,6,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Nitzschia amphibia,37,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Nitzschia desertorum,16,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Nitzschia fonticola,37,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Nitzschia inconspicua,12,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Nitzschia lacuum,6,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Nitzschia linearis,1,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Nitzschia ovalis,1,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Nitzschia palea,14,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Nitzschia sinuata,9,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Planothidium frequentissimum,144,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Rhoicosphenia abbreviata,2,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Sellaphora pupula,1,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Staurosira construens var venter,166,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Synedra ulna,2,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Tabularia fasciculata,1,NA,Integrated,600
+SMC00686_40721_1,SMC00686,6/27/2011,1,Heteroleibleinia kossinskajae,77,NA,Epiphyte,NA
+SMC00686_40721_1,SMC00686,6/27/2011,1,Leptolyngbya foveolarum,9,NA,Epiphyte,NA
+SMC00686_40721_1,SMC00686,6/27/2011,1,Chamaesiphon minutus,12,NA,Epiphyte,NA
+SMC00686_40721_1,SMC00686,6/27/2011,1,Oedogonium sp 1,2,NA,Epiphyte,NA
+SMC00686_40721_1,SMC00686,6/27/2011,1,Chantransia sp 1,NA,1443001443,Macroalgae,NA
+SMC00686_40721_1,SMC00686,6/27/2011,1,Cladophora glomerata,NA,8658008658,Macroalgae,NA
+SMC00686_40721_1,SMC00686,6/27/2011,1,Hydrodictyon reticulatum,NA,41847041847,Macroalgae,NA
+SMC00686_40721_1,SMC00686,6/27/2011,1,Oedogonium sp 1,NA,2164502165,Macroalgae,NA
+SMC00686_40721_1,SMC00686,6/27/2011,1,Rhizoclonium hieroglyphicum,NA,6493506494,Macroalgae,NA
+SMC00686_40721_1,SMC00686,6/27/2011,1,Spirogyra sp 6,NA,5772005772,Macroalgae,NA
+SMC00686_40721_1,SMC00686,6/27/2011,1,Vaucheria sp 1,NA,5772005772,Macroalgae,NA
+SMC00686_40721_1,SMC00686,6/27/2011,1,Hydrodictyon reticulatum,,,Qualitative,NA
+SMC00686_40721_1,SMC00686,6/27/2011,1,Cladophora glomerata,,,Qualitative,NA
+SMC00686_40721_1,SMC00686,6/27/2011,1,Rhizoclonium hieroglyphicum,,,Qualitative,NA
+SMC00686_40721_1,SMC00686,6/27/2011,1,Oedogonium sp 1,,,Qualitative,NA
+SMC00903_40730_1,SMC00903,7/6/2011,1,Chamaesiphon incrustans,NA,1939.195979,Microalgae,301
+SMC00903_40730_1,SMC00903,7/6/2011,1,Heteroleibleinia kossinskajae,NA,6547.513422,Microalgae,301
+SMC00903_40730_1,SMC00903,7/6/2011,1,Chamaesiphon cf polymorphus,NA,8657.124904,Microalgae,301
+SMC00903_40730_1,SMC00903,7/6/2011,1,Leptolyngbya foveolarum,NA,13126.97163,Microalgae,301
+SMC00903_40730_1,SMC00903,7/6/2011,1,Calothrix parietina,NA,93964.43371,Microalgae,301
+SMC00903_40730_1,SMC00903,7/6/2011,1,Calothrix cf marchica,NA,304444.7652,Microalgae,301
+SMC00903_40730_1,SMC00903,7/6/2011,1,Nostoc sp 1,NA,1292640.769,Microalgae,301
+SMC00903_40730_1,SMC00903,7/6/2011,1,Chantransia sp 1,NA,10768218.92,Microalgae,301
+SMC00903_40730_1,SMC00903,7/6/2011,1,Achnanthidium minutissimum,183,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Adlafia suchlandtii,4,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Amphora pediculus,11,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Chamaepinnularia mediocris,2,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Cocconeis neodiminuta,2,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Cocconeis placentula var euglypta,75,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Diatoma mesodon,14,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Diatoma moniliforme,24,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Encyonema silesiacum,4,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Fragilaria vaucheriae,11,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Geissleria ignota,9,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Gomphoneis olivaceum,3,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Gomphonema minutum,5,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Gomphonema pumilum,16,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Gomphonema sp C SWAMP JPK,6,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Mayamaea atomus,14,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Melosira varians,1,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Meridion circulare,4,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Navicula cryptotenella,8,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Navicula gregaria,5,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Navicula menisculus,38,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Navicula veneta,24,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Nitzschia dissipata,4,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Nitzschia inconspicua,8,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Nitzschia paleacea,2,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Nitzschia perminuta,3,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Nitzschia sinuata var delognei,1,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Planothidium lanceolatum,89,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Reimeria sinuata,9,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Reimeria uniseriata,2,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Rhoicosphenia abbreviata,2,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Rossithidium pusillum,2,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Sellaphora seminulum,7,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Staurosira construens,2,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Staurosira construens var venter,2,NA,Integrated,600
+SMC00903_40730_1,SMC00903,7/6/2011,1,Staurosirella leptostauron,4,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Heteroleibleinia kossinskajae,NA,144266.0988,Microalgae,300
+SMC01367_40717_1,SMC01367,6/23/2011,1,Leptolyngbya foveolarum,NA,37537.28867,Microalgae,300
+SMC01367_40717_1,SMC01367,6/23/2011,1,Aphanocapsa delicatissima,NA,2031.127264,Microalgae,300
+SMC01367_40717_1,SMC01367,6/23/2011,1,Pleurocapsa minor,NA,171403.1446,Microalgae,300
+SMC01367_40717_1,SMC01367,6/23/2011,1,Stylococcaceae 2,NA,26781.74135,Microalgae,300
+SMC01367_40717_1,SMC01367,6/23/2011,1,Achnanthidium minutissimum,155,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Adlafia minuscula,3,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Amphora pediculus,152,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Caloneis bacillum,2,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Cocconeis placentula var euglypta,104,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Eolimna minima,8,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Fragilaria vaucheriae,2,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Geissleria decussis,3,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Gomphonema,1,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Gomphonema angustatum,1,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Navicula gregaria,10,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Navicula margalithii,6,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Navicula menisculus,37,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Navicula phyllepta,2,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Naviculales,6,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Nitzschia frustulum,5,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Nitzschia inconspicua,18,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Planothidium frequentissimum,50,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Planothidium lanceolatum,26,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Reimeria sinuata,7,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Rhoicosphenia abbreviata,1,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Staurosira construens var venter,1,NA,Integrated,600
+SMC01367_40717_1,SMC01367,6/23/2011,1,Spirogyra varians ,,,Qualitative,NA
+SMC01923_40736_1,SMC01923,7/12/2011,1,Aphanocapsa delicatissima,NA,9415.463277,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Aphanocapsa cf planctonica,NA,15140.89573,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Monoraphidium contortum,NA,25961.75536,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Heteroleibleinia kossinskajae,NA,47227.67822,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Merismopedia punctata,NA,87539.57751,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Chroococcus minimus,NA,88158.33268,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Leptolyngbya foveolarum,NA,104093.6581,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Chlamydomonas globosa,NA,135217.4758,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Oocystis pusilla,NA,218078.745,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Scenedesmus abundans,NA,265959.145,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Euglena cf pisciformis,NA,452167.2392,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Chroococcus minutus,NA,865391.8454,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Tetraedron minimum,NA,1081739.807,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Scenedesmus ellipticus,NA,1752418.487,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Cyanothece halobia,NA,2043709.382,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Chlamydomonas cf ehrenbergii,NA,3802531.768,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Chlorella cf vulgaris,NA,4763116.717,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Scenedesmus obliquus,NA,8826996.823,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Scenedesmus raciborskii,NA,14019347.89,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Chroococcus turgidus,NA,15140895.73,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Pediastrum boryanum,NA,15701669.64,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Scenedesmus dimorphus,NA,20354016.2,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Pediastrum integrum,NA,71779061.22,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Cladophora glomerata,NA,368665039.2,Microalgae,355
+SMC01923_40736_1,SMC01923,7/12/2011,1,Achnanthidium exiguum,2,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Adlafia minuscula,2,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Cyclotella meneghiniana,2,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Denticula kuetzingii,4,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Diadesmis confervacea,12,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Diploneis sp 1 SCCWRP JPK,2,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Eolimna subminuscula,9,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Gomphonema parvulum,20,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Halamphora coffeaeformis,12,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Halamphora veneta,16,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Mayamaea atomus,2,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Navicula,1,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Navicula gregaria,10,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Navicula rhynchocephala,6,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Navicula rostellata,7,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Navicula schroeteri,2,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Nitzschia amphibia,12,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Nitzschia aurariae,20,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Nitzschia frustulum,17,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Nitzschia inconspicua,1,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Nitzschia microcephala,129,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Nitzschia minuta,7,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Nitzschia palea,95,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Planothidium delicatulum,8,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Planothidium lanceolatum,159,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Pseudostaurosira elliptica,43,NA,Integrated,600
+SMC01923_40736_1,SMC01923,7/12/2011,1,Cladophora glomerata,,,Qualitative,NA
+SMC01923_40736_1,SMC01923,7/12/2011,1,Oedogonium sp 2,,,Qualitative,NA
+SMC01923_40736_1,SMC01923,7/12/2011,1,Oedogonium sp 3,,,Qualitative,NA
+

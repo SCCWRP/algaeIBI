@@ -1,0 +1,17 @@
+{
+    "contents" : "<script type=\"text/javascript\">\n  $(\"#submit\").on(\"click\", function() {\n    if($(\"#email\").val()==\"\"){\n      $(\"#error\").text(\"Please enter your email\");\n    };\n  });\n</script>",
+    "created" : 1415228702430.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "406958102",
+    "id" : "E55EB8AC",
+    "lastKnownWriteTime" : 1415228768,
+    "path" : "~/ShinyApps/algaeIBI/www/algae.js",
+    "project_path" : "www/algae.js",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "js"
+}

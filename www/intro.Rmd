@@ -1,0 +1,10 @@
+
+#### Description
+
+This tool calculates the three main benthic algal indices of biotic integrity (IBIs) that have been developed for bioassessment applications in southern California wadeable streams (<a href="http://link.springer.com/article/10.1007%2Fs10811-013-0088-2#page-1" target='_top'>Fetscher et al. 2014</a>) by SCCWRP and collaborators at California State University San Marcos, the University of Colorado Boulder, the San Diego Regional Water Quality Control Board, and the California Department of Fish and Wildlife. At this time, validation of the IBIs for use in streams outside of southern California has not be conducted rigorously, but preliminary analyses (<a href="http://ftp.sccwrp.org/pub/download/DOCUMENTS/TechnicalReports/781_CA_Perennial_Wadeable_Streams.pdf" target='_top'>Fetscher et al. 2013</a>) suggest that the IBIs may also have applicability in other parts of the state.
+
+A template for data submission may be downloaded <a href="sampleTemplate.csv" target='_blank'>here</a>
+
+More information about this tool be obtained <a href="instructions.pdf" target='_blank'>here</a>
+
+

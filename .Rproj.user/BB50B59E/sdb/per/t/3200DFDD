@@ -1,0 +1,16 @@
+{
+    "contents" : "\n# This is the server logic for a Shiny web application.\n# You can find out more about building applications with Shiny here:\n# \n# http://www.rstudio.com/shiny/\n#\n\nlibrary(shiny)\nlibrary(algaeMetrics)\nlibrary(RSQLite)\nlibrary(reshape2)\n\n# Connect to DB on server boot\ncon <- dbConnect(\"SQLite\", \"emailDB\")\n\nshinyServer(function(input, output) {\n  getData <- reactive({\n    input$submit # no action until submit button is pressed\n    isolate({\n      if(is.null(input$file) | input$email == \"\") return(NULL)\n      \n      # Enter email into DB\n      if(!input$email %in% sqliteReadTable(con, \"email\")$address)\n        sqliteWriteTable(con, \"email\", data.frame(address = input$email), append=TRUE)\n      \n      # Read user data\n      read.csv(input$file$datapath, stringsAsFactors=FALSE)\n    })\n  })\n  \n  results <- reactive(if(!is.null(getData()))try(algae.IBIs(getData())) else NULL)\n  \n  output$downloadData <- downloadHandler(\n    filename = function() {\n      paste('Results-', Sys.Date(), '.csv', sep='')\n    },\n    content = function(con) {\n      write.csv(results(), con, row.names=FALSE)\n    }\n  )\n  \n  output$outcome <- renderUI({\n    if(input$submit == 0 || is.null(getData()))\n      return(HTML(NULL)) \n    if(class(results()) == \"try-error\") # print errors to UI\n      results()\n    else\n      downloadButton(\"downloadData\", \"Download Results\")\n  })\n})\n\n\n",
+    "created" : 1404846248297.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4261379638",
+    "id" : "3200DFDD",
+    "lastKnownWriteTime" : 1408132875,
+    "path" : "~/ShinyApps/algaeIBI/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
